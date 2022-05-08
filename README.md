@@ -22,7 +22,7 @@
 </ul>
   
 <h2>Ссылка</h2>
-https://eve982.github.io/russian-travel/#
+https://eve982.github.io/RussianTravelExtended/
 
 
 <h2>Travel to Russia</h2>
@@ -50,4 +50,4 @@ These instructions will give you a copy of the project up and running on your lo
 </ul>
 
 <h2>Link</h2>
-https://eve982.github.io/russian-travel/#
+https://eve982.github.io/RussianTravelExtended/
