@@ -1,0 +1,25 @@
+.video {
+    padding: 0 128px 102px;
+}
+
+@media screen and (max-width: 1279px) {
+    .video {
+        padding-right: 48px;
+        padding-left: 48px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .video {
+        padding-right: 24px;
+        padding-left: 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .video {
+        padding-right: 16px;
+        padding-left: 16px;
+        padding-bottom: 64px;
+    }
+}

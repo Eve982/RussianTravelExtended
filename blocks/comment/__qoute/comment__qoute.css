@@ -1,0 +1,21 @@
+.comment__qoute {
+    font-family: 'Inter';
+    font-size: 14px;
+    line-height: 1.714;
+    max-width: 382px;
+    margin: 0 0 24px;
+}
+
+@media screen and (max-width: 1279px) {
+    .comment__qoute {
+        margin-bottom: 16px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .comment__qoute {
+        align-self: center;
+        margin-bottom: 0;
+        order: 3;
+    }
+}
